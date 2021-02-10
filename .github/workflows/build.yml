@@ -32,4 +32,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run all the checks
-        run: ./gradle check
+        run: ./gradlew check
